@@ -281,15 +281,6 @@ const certifications = {
       alt_name: "Google",
       color_code: "#fedfe5",
     },
-    {
-      title: "Deep Learning Specialization",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://coursera.org/share/737a9587023c68e6cb303157aaeba",
-      alt_name: "deeplearning.ai",
-      color_code: "#47A048",
-    },
   ],
 };
 
